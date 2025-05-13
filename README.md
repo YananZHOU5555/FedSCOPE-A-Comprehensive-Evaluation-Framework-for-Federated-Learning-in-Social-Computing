@@ -136,9 +136,3 @@ FedSCOPE supports the following datasets for experimentation:
 
 Happy experimenting with federated learning! 🚀
 ```
-
-### Key Changes:
-1. Removed all references to `fake_news`, `fake_news_code`, and `flvenv`.
-2. Clearly listed the required Python packages in a table under the "Install Required Python Packages" section.
-3. Provided installation instructions without the use of a virtual environment.
-4. Added clarity around algorithm evaluation, dataset descriptions, and the role of `HYPERPARAMETERS.py`.
