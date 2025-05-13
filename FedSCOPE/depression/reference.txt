@@ -1,0 +1,5 @@
+抑郁症
+https://www.kaggle.com/datasets/hopesb/student-depression-dataset
+
+假新闻
+https://www.kaggle.com/datasets/mrisdal/fake-news/data
