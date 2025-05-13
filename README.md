@@ -135,4 +135,3 @@ FedSCOPE supports the following datasets for experimentation:
 ---
 
 Happy experimenting with federated learning! 🚀
-```
